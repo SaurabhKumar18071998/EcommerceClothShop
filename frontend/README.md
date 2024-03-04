@@ -32,31 +32,31 @@ MERN E-Commerce Cloth Shop with Admin Panel, Redux Toolkit, Stripe Payment, Clou
 
 ## How to Compile the Project
 
-To compile and run the project on your local machine, follow these steps:
+ - To compile and run the project on your local machine, follow these steps:
 
 ### Prerequisites
-- Node.js installed on your machine. You can download it from [here](https://nodejs.org/).
+ - Node.js installed on your machine. You can download it from [here](https://nodejs.org/).
 
 ### Installation
-1. Clone this repository to your local machine.
-git clone https://github.com/SaurabhKumar18071998/EcommerceClothShop.git
+ 1. Clone this repository to your local machine.
+ - git clone https://github.com/SaurabhKumar18071998/EcommerceClothShop.git
 
-2. Navigate to the project directory.
-cd Saurabh-Kumar-MERN-Ecommerce
+ 2. Navigate to the project directory.
+ - cd Saurabh-Kumar-MERN-Ecommerce
 
-3. Install dependencies.
-npm install
+ 3. Install dependencies.
+ - npm install
 
 ### Run the Application
-1. Run the React app.
+ 1. Run the React app.
 
-npm start
-This will start the development server and open the project in your default web browser.
+ - npm start
+ - This will start the development server and open the project in your default web browser.
 
-2. To compile the project for production, you can use:
+ 2. To compile the project for production, you can use:
 
-npm run build
-This will create a build folder with optimized production-ready code.
+ - npm run build
+ - This will create a build folder with optimized production-ready code.
 
-3. Visit http://localhost:3000 in your web browser to view the application.
+ 3. Visit http://localhost:3000 in your web browser to view the application.
 
