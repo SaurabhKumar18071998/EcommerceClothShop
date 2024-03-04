@@ -2,6 +2,8 @@
 
 Welcome to the backend repository of Saurabh Kumar's MERN Stack E-commerce Cloth Shop Project. This repository contains the backend codebase for the project. Below are the instructions on how to set up and run the backend server locally.
 
+🔥🔥 WATCH HERE >> [Project Video] https://drive.google.com/file/d/1BFvq17ZshOR0hNZi4Oi25xkdihzTrudH/view?usp=drive_link
+
 ## Project Overview
 This backend server provides the necessary APIs and functionalities to support the frontend of the MERN Stack E-commerce Cloth Shop Project. It handles tasks such as user authentication, product management, order processing, and more.
 
