@@ -60,3 +60,8 @@ MERN E-Commerce Cloth Shop with Admin Panel, Redux Toolkit, Stripe Payment, Clou
 
  3. Visit http://localhost:3000 in your web browser to view the application.
 
+
+That's it! You have successfully set up and run the frontend server for the MERN Stack E-commerce Cloth Shop Project. If you encounter any issues or have any questions, feel free to contact Saurabh Kumar for assistance.
+
+---
+Feel free to contact Saurabh Kumar for any further assistance or inquiries regarding this project.
