@@ -39,7 +39,7 @@ To set up and run the E-Commerce Cloth Shop Project on your local machine, follo
 
 ### Installation
 1. Clone this repository to your local machine.
-git clone https://github.com/your-username/e-commerce-cloth-shop.git
+git clone https://github.com/SaurabhKumar18071998/EcommerceClothShop.git
 
 2. Navigate to the project directory.
 cd e-commerce-cloth-shop
