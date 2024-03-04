@@ -56,7 +56,7 @@ npm install
 ### Running the Application
 1. Start the backend server.
 cd backend
-npm start
+node index.js
 
 This will start the backend server and connect it to the MongoDB database.
 
