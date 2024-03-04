@@ -1,31 +1,14 @@
 
-# CoderDost MERN Stack E-commerce Project - Frontend Repository
+# Saurabh Kumar MERN Stack E-commerce Cloth Shop Project - Frontend Repository
 
-🔥🔥 WATCH HERE >> [Project Video](https://youtu.be/LH-S5v-D3hA)
+🔥🔥 WATCH HERE >> [Project Video] 
 
-MERN E-Commerce (in Hindi) with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, and many features (complete features given below in Description )
-
-🔥 Code Repositories:
-- React [frontend] -  https://github.com/coderdost/MERN-ecommerce-Frontend
-- Node [backend] - https://github.com/coderdost/MERN-ecommerce-backend
-
-🔥Related MasterClasses:
-- React [ 10 Hours ] - https://youtu.be/6l8RWV8D-Yo 
-- NodeJS / Express/ Mongoose [ 12 hours ] - https://youtu.be/ChVE-JbtYbM
-- Redux [ 7 hours ] - https://youtu.be/1zCNdVhdvHE
-
-🔥 Related Videos :
-- Multer Middleware (for file upload) -  https://youtu.be/qfN6c5FEAQQ
-- Mongoose populate - https://youtu.be/VuSt5-AwL8Y
-- Passport  JS Authentication - https://youtu.be/U-S3rgG8hBE
-- JWT Auth  is  from  - Node MasterClass (Link above)
-- Vercel deployment details  - Node MasterClass (Link above)
-- React Router Crash Course: https://bit.ly/36YfO2i
+MERN E-Commerce Cloth Shop with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, and many features
 
 🔥 Features :
 - Basic E-commerce Features- Product lists, Product Details, Cart, Checkout 
 - Secure Card Payments / Cash payments
-- Admin Panel - Add/Edit Orders. Add/Edit Products
+- Admin Panel - Add/Edit/Delete Orders. Add/Edit/Delete Products
 - Sorting, Filtering, and Pagination queries using Mongoose
 - Authentication with Passport JS strategies
 - Order Emails, Reset Password Emails
@@ -46,4 +29,34 @@ MERN E-Commerce (in Hindi) with Admin Panel, Redux Toolkit, Stripe Payment, Clou
 - Email using Nodemailer - using GMail SMTP system
 - Payments using Stripe - PaymentIntent based custom flow
 
+
+## How to Compile the Project
+
+To compile and run the project on your local machine, follow these steps:
+
+### Prerequisites
+- Node.js installed on your machine. You can download it from [here](https://nodejs.org/).
+
+### Installation
+1. Clone this repository to your local machine.
+git clone https://github.com/SaurabhKumar18071998/EcommerceClothShop.git
+
+2. Navigate to the project directory.
+cd Saurabh-Kumar-MERN-Ecommerce
+
+3. Install dependencies.
+npm install
+
+### Run the Application
+1. Run the React app.
+
+npm start
+This will start the development server and open the project in your default web browser.
+
+2. To compile the project for production, you can use:
+
+npm run build
+This will create a build folder with optimized production-ready code.
+
+3. Visit http://localhost:3000 in your web browser to view the application.
 
