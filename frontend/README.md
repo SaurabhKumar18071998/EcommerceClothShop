@@ -1,7 +1,7 @@
 
 # Saurabh Kumar MERN Stack E-commerce Cloth Shop Project - Frontend Repository
 
-🔥🔥 WATCH HERE >> [Project Video] 
+🔥🔥 WATCH HERE >> [Project Video] https://drive.google.com/file/d/1BFvq17ZshOR0hNZi4Oi25xkdihzTrudH/view?usp=drive_link
 
 MERN E-Commerce Cloth Shop with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, and many features
 
